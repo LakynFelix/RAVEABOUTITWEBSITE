@@ -11070,9 +11070,9 @@ blockquote {
   text-transform: uppercase;
 }
 #mainNav .navbar-nav > li.nav-item > a.nav-link:hover {
-  font-weight:900;
+  /* font-weight:900;
   font-weight: bolder;
-  color:#8e44ad;
+  color:#8e44ad; */
 
 
 }
@@ -11493,3 +11493,9 @@ a.btn.btn-primary.text-uppercase {
     box-shadow: 10px 8px 5px #000;
     
 }
+
+h2.post-title {
+  padding-top: 4px;
+  
+}
+
